@@ -10,7 +10,7 @@ Yerik           : 1653
 Arjun           : 1870
 Duc             : 1643
 Stanley         : 1572
-Abdul           : 1658
+Abdul           : 1684
 Raymond h       : 1574
 Dang p          : 1600
 Riley           : 1098
@@ -42,7 +42,6 @@ Sened           : 403
 Artem           : 1200
 Heaven          : 383
 Avi             : 977
-Mooez           : 1684
 Spencer         : 1794
 Raymond         : 1440
 Gagan           : 1018
